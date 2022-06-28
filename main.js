@@ -9,8 +9,6 @@ getMeal.addEventListener("click", () => {
         });
 });
 
-
-
 function meal(meal) {
     const ingredients = [];
 
@@ -20,8 +18,8 @@ function meal(meal) {
         } else {
             break;
         }
-
     }
+    
     mealcontainer.innerHTML = `
     <div class="row py-3">
         <div class="column five">
