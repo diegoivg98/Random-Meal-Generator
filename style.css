@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+h5{
+font-size: 1.25rem;
+text-align: initial;
+padding: 1rem;
+}
+
+ul{
+    text-align: initial;
+}
+
+.column.seven h5{
+    text-align: center;
+}
+.column.nine h5{
+    text-align: center;
+}
+
+.column.nine p{
+    text-align: justify;
+}
